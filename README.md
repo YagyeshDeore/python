@@ -1,0 +1,1 @@
+we spoke with computers through language and its follow the command
