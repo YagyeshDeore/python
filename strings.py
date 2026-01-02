@@ -72,3 +72,6 @@ print(txt)
 txt = "we are the so-called \"vikings\" from the north"
 print(txt)
 
+#Quote inside Quote:
+txt = 'It\'s a beautiful day'
+print(txt)
