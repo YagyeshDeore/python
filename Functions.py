@@ -232,3 +232,5 @@ def my_function(title, *args, **kwargs):
   print("Keyword arguments:", kwargs)
 
 my_function("User Info", "Emil", "Tobias", age = 25, city = "Oslo")
+
+
